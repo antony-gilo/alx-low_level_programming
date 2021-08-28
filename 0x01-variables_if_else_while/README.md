@@ -29,4 +29,7 @@ _program that prints all the numbers of base 16 in lowercase_
 10. 9-print_comb.c </br>
 _program that prints all possible combinations of single-digit numbers_
 ---
-11.
+11. 100-print_comb3.c </br>
+_program that prints all possible different combinations of two digits_
+---
+
