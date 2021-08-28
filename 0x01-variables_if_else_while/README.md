@@ -23,4 +23,7 @@ _program that prints all single digit numbers of base 10 starting from 0_
 8. 7-print_tebahpla.c </br>
 _program that prints the lowercase alphabet in reverse_
 ---
-9.
+9. 8-print_base16.c </br>
+_program that prints all the numbers of base 16 in lowercase_
+---
+10.
