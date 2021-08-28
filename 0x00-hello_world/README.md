@@ -23,4 +23,6 @@ _C program that prints the size of various types on the computer it is compiled 
 ---
 8. 100-intel </br>
 _script that generates the assembly code (Intel syntax) of a C code and save it in an output file_
-9. 
+---
+9. 101-quote.c </br>
+_C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error_ 
