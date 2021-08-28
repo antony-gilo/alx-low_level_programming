@@ -11,4 +11,7 @@ _program that prints the alphabet in lowercase_
 4. 3-print_alphabets.c </br>
 _program that prints the alphabet in lowercase, and then in uppercase_
 ---
-5. 
+5. 4-print_alphabt.c </br>
+_program that prints the alphabet in lowercase_
+---
+6. 
