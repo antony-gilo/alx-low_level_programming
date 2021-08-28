@@ -17,4 +17,7 @@ _program that prints the alphabet in lowercase_
 6. 5-print_numbers.c </br>
 _program that prints all single digit numbers of base 10 starting from 0_ 
 ---
-7. 
+7. 6-print_numberz.c </br>
+_program that prints all single digit numbers of base 10 starting from 0_
+---
+8.
