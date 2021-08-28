@@ -8,4 +8,7 @@ _program will assign a random number to the variable n each time it is executed_
 3. 2-print_alphabet.c </br>
 _program that prints the alphabet in lowercase_
 ---
-4. 
+4. 3-print_alphabets.c </br>
+_program that prints the alphabet in lowercase, and then in uppercase_
+---
+5. 
