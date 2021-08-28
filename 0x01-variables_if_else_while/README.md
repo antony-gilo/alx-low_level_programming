@@ -32,4 +32,40 @@ _program that prints all possible combinations of single-digit numbers_
 11. 100-print_comb3.c </br>
 _program that prints all possible different combinations of two digits_
 ---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
+12. 101-print_comb4.c </br>
+_program that prints all possible different combinations of three digits_
+---
 
