@@ -26,4 +26,7 @@ _program that prints the lowercase alphabet in reverse_
 9. 8-print_base16.c </br>
 _program that prints all the numbers of base 16 in lowercase_
 ---
-10.
+10. 9-print_comb.c </br>
+_program that prints all possible combinations of single-digit numbers_
+---
+11.
