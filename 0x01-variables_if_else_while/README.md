@@ -20,4 +20,7 @@ _program that prints all single digit numbers of base 10 starting from 0_
 7. 6-print_numberz.c </br>
 _program that prints all single digit numbers of base 10 starting from 0_
 ---
-8.
+8. 7-print_tebahpla.c </br>
+_program that prints the lowercase alphabet in reverse_
+---
+9.
