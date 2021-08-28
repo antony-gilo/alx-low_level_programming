@@ -14,4 +14,7 @@ _program that prints the alphabet in lowercase, and then in uppercase_
 5. 4-print_alphabt.c </br>
 _program that prints the alphabet in lowercase_
 ---
-6. 
+6. 5-print_numbers.c </br>
+_program that prints all single digit numbers of base 10 starting from 0_ 
+---
+7. 
