@@ -21,3 +21,6 @@ _C program that prints exactly with proper grammar, but the outcome is a piece o
 7. 6-size.c </br>
 _C program that prints the size of various types on the computer it is compiled and run on_
 ---
+8. 100-intel </br>
+_script that generates the assembly code (Intel syntax) of a C code and save it in an output file_
+9. 
