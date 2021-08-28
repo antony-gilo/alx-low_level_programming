@@ -15,4 +15,7 @@ _script that compiles a C file and creates an executable named cisfun_
 5. 4-puts.c </br>
 _ C program that prints exactly "Programming is like building a multilingual puzzle_
 ---
-6.
+6. 5-printf.c </br>
+_C program that prints exactly with proper grammar, but the outcome is a piece of art_
+---
+
