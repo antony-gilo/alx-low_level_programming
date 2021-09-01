@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point, prints ""Holberton" to the standard output
+ * main - Entry point, prints "Holberton" to the standard output
  *
  * Return: Always 0
  */
