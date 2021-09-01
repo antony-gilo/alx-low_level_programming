@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point, prints "Holberton" to the standard output
+ * main - Entry point, prints "_putchar" to the standard output
  *
  * Return: Always 0
  */
@@ -9,7 +9,7 @@
 int main(void)
 {
 	int i;
-	char p[] = "Holberton";
+	char p[] = "_putchar";
 
 	for (i = 0; i < 9; i++)
 		{
