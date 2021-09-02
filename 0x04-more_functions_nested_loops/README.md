@@ -2,4 +2,10 @@
 1. 0-isupper.c </br>
 _function that checks for uppercase character_
 ---
-
+2. 1-isdigit.c </br>
+_function that checks for a digit (0 through 9)_
+---
+3. 2-mul.c </br>
+_function that multiplies two integers_
+---
+4
