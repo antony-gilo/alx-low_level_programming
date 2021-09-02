@@ -14,16 +14,7 @@ _function that prints the numbers, from 0 to 9, followed by a new line_
 5. 4-print_most_numbers.c </br>
 _function that prints the numbers, from 0 to 9_
 ---
-5. 4-print_most_numbers.c </br>
-_function that prints the numbers, from 0 to 9_
+6. 5-more_numbers.c </br>
+_function that prints 10 times the numbers, from 0 to 14_
 ---
-5. 4-print_most_numbers.c </br>
-_function that prints the numbers, from 0 to 9_
----
-5. 4-print_most_numbers.c </br>
-_function that prints the numbers, from 0 to 9_
----
-5. 4-print_most_numbers.c </br>
-_function that prints the numbers, from 0 to 9_
----
-
+7. 
