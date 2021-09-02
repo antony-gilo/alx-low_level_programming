@@ -17,4 +17,7 @@ _function that prints the numbers, from 0 to 9_
 6. 5-more_numbers.c </br>
 _function that prints 10 times the numbers, from 0 to 14_
 ---
-7. 
+7. 6-print_line.c </br>
+_function that draws a straight line in the terminal_
+---
+8.
