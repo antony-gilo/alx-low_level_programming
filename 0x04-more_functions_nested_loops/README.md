@@ -20,4 +20,7 @@ _function that prints 10 times the numbers, from 0 to 14_
 7. 6-print_line.c </br>
 _function that draws a straight line in the terminal_
 ---
-8.
+8. 7-print_diagonal.c </br>
+_function that draws a diagonal line on the terminal_
+---
+9.
