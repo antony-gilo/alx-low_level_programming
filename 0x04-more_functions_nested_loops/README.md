@@ -8,4 +8,7 @@ _function that checks for a digit (0 through 9)_
 3. 2-mul.c </br>
 _function that multiplies two integers_
 ---
-4
+4. 3-print_numbers.c </br>
+_function that prints the numbers, from 0 to 9, followed by a new line_
+---
+
