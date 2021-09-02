@@ -23,4 +23,7 @@ _function that draws a straight line in the terminal_
 8. 7-print_diagonal.c </br>
 _function that draws a diagonal line on the terminal_
 ---
-9.
+9. 8-print_square.c </br>
+_function that prints a square_
+---
+10.
